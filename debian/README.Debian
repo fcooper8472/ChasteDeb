@@ -6,4 +6,8 @@ The latest release of the Chaste source code can be obtained from GitHub:
 
 $ git clone -b release https://github.com/Chaste/Chaste.git Chaste
 
- -- Chaste Team <chaste-admin@maillist.ox.ac.uk>  Wed, 20 May 2009 15:05:48 +0100
+For more information about Chaste, see:
+https://www.cs.ox.ac.uk/chaste/
+https://chaste.cs.ox.ac.uk/trac/wiki/GettingStarted
+
+ -- Chaste Team <chaste-admin@maillist.ox.ac.uk>  Fri, 20 Oct 2017 16:37:14 +0000

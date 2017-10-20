@@ -1,16 +1,9 @@
-chaste-source for Ubuntu
+chaste-dependencies for Ubuntu
 ------------------------
 
-This source code provided by this package is identical to the source release of
-Chaste.
+This deb simply provides the dependencies necessary to use Chaste.
+The latest release of the Chaste source code can be obtained from GitHub:
 
-The source code archive is installed as /usr/src/chaste-source.tar.bz2.  To use
-Chaste unpack this archive to a convenient location, for example:
-  cd $HOME
-  tar -jxf /usr/src/chaste-source.tar.bz2
-and follow the guides in README.txt.  For example, to run the default set of
-tests use:
-  cd chaste-source
-  scons
+$ git clone -b release https://github.com/Chaste/Chaste.git Chaste
 
  -- Chaste Team <chaste-admin@maillist.ox.ac.uk>  Wed, 20 May 2009 15:05:48 +0100

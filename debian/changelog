@@ -1,3 +1,5 @@
 chaste-dependencies (2017.10.20) trusty; urgency=low
 
- -- Chaste Team <chaste-admin@maillist.ox.ac.uk>  Fri, 20 Oct 2017 16:45:00 +0000
+  * Package commit zzzzzzzzzzzz in Chaste 2017.1.
+
+ -- Chaste Team <chaste-admin@maillist.ox.ac.uk>  Fri, 2 Oct 2017 13:34:09 +0000
